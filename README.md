@@ -7,4 +7,4 @@ Use Cases:
 
 Misc:
 
-* use Jaeger/OpenTracing but with a plugin for storage that sends to write-once, immutable storage...see  https://github.com/jaegertracing/jaeger/pull/1461
+* use Jaeger/[OpenTracing](https://opentracing.io/) but with a plugin for storage that sends to write-once, immutable storage...see  https://github.com/jaegertracing/jaeger/pull/1461
