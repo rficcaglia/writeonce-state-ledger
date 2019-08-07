@@ -26,3 +26,7 @@ Brainstorm:
 * use https://kubernetes.io/docs/concepts/containers/container-lifecycle-hooks/ but how can we prevent bad containers from faking or omitting events?
 * can query API Server but then how do you prevent compromised api-server from faking or omitting events?
 * can use k8s audit logging but how to prevent compromised api-server?
+
+## Other solutions to consider
+
+* https://www.cybereason.com/platform/replay
